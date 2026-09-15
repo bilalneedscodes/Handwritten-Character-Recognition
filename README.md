@@ -1,5 +1,3 @@
-# CodeAlpha_HandwrittenCharacterRecognition
-
 **Task:** Identify handwritten characters/digits using image processing and deep learning.
 
 CodeAlpha Machine Learning Internship — Task 3
@@ -14,7 +12,6 @@ offline with **no external download** required.
 ## 🗂 Project Structure
 
 ```
-CodeAlpha_HandwrittenCharacterRecognition/
 ├── src/
 │   └── train_model.py     # Loads data, builds CNN, trains, evaluates
 ├── data/                  # (unused — dataset ships with scikit-learn)
